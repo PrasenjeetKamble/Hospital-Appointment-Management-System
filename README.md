@@ -16,5 +16,5 @@ ASP.NET Web Forms based hospital appointment management system using C#, SQL Ser
 - Parameterized SQL Queries
 
  # UI Screenshot
-   Application Screenshot.png
+   ![Hospital Appointment UI](Application Screenshot.png)
    
